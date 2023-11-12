@@ -1,0 +1,47 @@
+[
+    {
+        "_id": "b2e8d4ca-10e1-4536-b019-6e5ce10b5281-pin",
+        "title": "Sentinel-2 L2A: Moisture index (Default)",
+        "group": null,
+        "highResImageUrl": null,
+        "datasetId": "S2L2A",
+        "themeId": "DEFAULT-THEME",
+        "layerId": "5-MOISTURE-INDEX1",
+        "lat": 47.0104529,
+        "lng": 28.8638103,
+        "zoom": 12,
+        "fromTime": "2023-11-06T00:00:00.000Z",
+        "toTime": "2023-11-06T23:59:59.999Z",
+        "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/bd86bcc0-f318-402b-a145-015f85b9427e",
+        "evalscript": "",
+        "evalscripturl": "",
+        "dataFusion": [],
+        "gain": 1,
+        "gamma": 1,
+        "redRange": [
+            0,
+            1
+        ],
+        "greenRange": [
+            0,
+            1
+        ],
+        "blueRange": [
+            0,
+            1
+        ],
+        "upsampling": null,
+        "downsampling": null,
+        "speckleFilter": null,
+        "redCurve": null,
+        "orthorectification": null,
+        "greenCurve": null,
+        "backscatterCoeff": null,
+        "id": 4353218,
+        "blueCurve": null,
+        "demSource3D": "MAPZEN",
+        "description": null,
+        "terrainViewerSettings": null,
+        "minQa": null
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "_id": "40e36fdb-2773-4e5f-bf98-b6f3af4b87ed-pin",
+        "title": "Sentinel-2 L1C: Moisture index (Default)",
+        "group": null,
+        "highResImageUrl": null,
+        "datasetId": "S2L1C",
+        "themeId": "DEFAULT-THEME",
+        "layerId": "5-MOISTURE-INDEX1",
+        "lat": 47.364059904813,
+        "lng": 29.1172027587891,
+        "zoom": 15,
+        "fromTime": "2023-06-24T00:00:00.000Z",
+        "toTime": "2023-06-24T23:59:59.999Z",
+        "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/42924c6c-257a-4d04-9b8e-36387513a99c",
+        "evalscript": "",
+        "evalscripturl": "",
+        "dataFusion": [],
+        "gain": 1,
+        "gamma": 1,
+        "redRange": [
+            0,
+            1
+        ],
+        "greenRange": [
+            0,
+            1
+        ],
+        "blueRange": [
+            0,
+            1
+        ],
+        "upsampling": null,
+        "downsampling": null,
+        "speckleFilter": null,
+        "redCurve": null,
+        "orthorectification": null,
+        "greenCurve": null,
+        "backscatterCoeff": null,
+        "id": 4353295,
+        "blueCurve": null,
+        "demSource3D": "MAPZEN",
+        "description": null,
+        "terrainViewerSettings": null,
+        "minQa": null
+    },
+    {
+        "_id": "b2e8d4ca-10e1-4536-b019-6e5ce10b5281-pin",
+        "title": "Sentinel-2 L2A: Moisture index (Default)",
+        "group": null,
+        "highResImageUrl": null,
+        "datasetId": "S2L2A",
+        "themeId": "DEFAULT-THEME",
+        "layerId": "5-MOISTURE-INDEX1",
+        "lat": 47.0104529,
+        "lng": 28.8638103,
+        "zoom": 12,
+        "fromTime": "2023-11-06T00:00:00.000Z",
+        "toTime": "2023-11-06T23:59:59.999Z",
+        "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/bd86bcc0-f318-402b-a145-015f85b9427e",
+        "evalscript": "",
+        "evalscripturl": "",
+        "dataFusion": [],
+        "gain": 1,
+        "gamma": 1,
+        "redRange": [
+            0,
+            1
+        ],
+        "greenRange": [
+            0,
+            1
+        ],
+        "blueRange": [
+            0,
+            1
+        ],
+        "upsampling": null,
+        "downsampling": null,
+        "speckleFilter": null,
+        "redCurve": null,
+        "orthorectification": null,
+        "greenCurve": null,
+        "backscatterCoeff": null,
+        "id": 4353296,
+        "blueCurve": null,
+        "demSource3D": "MAPZEN",
+        "description": null,
+        "terrainViewerSettings": null,
+        "minQa": null
+    }
+]
